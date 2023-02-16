@@ -58,7 +58,7 @@ public class Main {
     Phone Samsung = new Phone (38529582, "Samsung");
 
     Samsung.getModel();
-    Iphone.callNumber(254852);
+    Iphone.callNumber(4768604);
 
 
     }
