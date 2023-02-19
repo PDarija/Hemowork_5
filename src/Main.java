@@ -54,11 +54,11 @@ public class Main {
 
     }
 
-    Phone Iphone = new Phone(4768604, "Iphone", 0.6);
-    Phone Samsung = new Phone (38529582, "Samsung");
+    Phone iphone = new Phone(4768604, "Iphone", 0.6);
+    Phone samsung = new Phone (38529582, "Samsung");
 
-    Samsung.getModel();
-    Iphone.callNumber(4768604);
+    samsung.getModel();
+    iphone.callNumber(4768604);
 
 
     }
