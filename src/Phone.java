@@ -20,7 +20,7 @@ public class Phone {
     }
 
     public void getModel() {
-        System.out.println("The model of this phone is" + model);
+        System.out.println("This phone's model is" + model);
 
     }
     public void callNumber() {
